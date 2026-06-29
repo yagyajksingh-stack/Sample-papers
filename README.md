@@ -1,126 +1,126 @@
-# Sample Paper 7 - LDCE Driver / Motor Vehicle Operator Cadre
+# Sample Paper 8 - LDCE Driver / Motor Vehicle Operator Cadre
 
 ## Questions
 
-1. Who is regarded as the architect of the Indian Constitution?  
-   A. Dr. B. R. Ambedkar  
-   B. Mahatma Gandhi  
-   C. Jawaharlal Nehru  
-   D. Sardar Patel  
+1. The headquarters of the United Nations is in:  
+   A. Geneva  
+   B. New York  
+   C. Paris  
+   D. The Hague  
 
-2. What does a circular road sign with red border typically indicate?  
-   A. Information  
-   B. Prohibition or mandatory action  
-   C. Warning  
-   D. Direction  
+2. What is the purpose of a zebra crossing?  
+   A. Parking area  
+   B. Pedestrian crossing  
+   C. Bus stop  
+   D. Speed breaker  
 
-3. A shopkeeper buys for Rs. 800 and sells at 5% profit. Selling price?  
-   A. 820  
-   B. 840  
-   C. 860  
-   D. 880  
+3. Two numbers in ratio 2:5 sum to 70. Smaller number?  
+   A. 15  
+   B. 20  
+   C. 25  
+   D. 50  
 
-4. Synonym of "Benevolent":  
-   A. Cruel  
-   B. Kind  
-   C. Greedy  
-   D. Selfish  
+4. Synonym of "Reluctant":  
+   A. Eager  
+   B. Willing  
+   C. Unwilling  
+   D. Confident  
 
-5. If 'CAT' is coded as 24-1-20, 'DOG' is:  
-   A. 4-15-7  
-   B. 4-14-7  
-   C. 4-15-8  
-   D. 5-15-7  
+5. If RAIN is 8456, PEN is 723, PAIN is:  
+   A. 7456  
+   B. 7846  
+   C. 7546  
+   D. 8456  
 
-6. Action at 'Give Way' sign:  
-   A. Stop always  
-   B. Yield to main road traffic  
+6. Action when ambulance with siren approaches:  
+   A. Ignore  
+   B. Give way and move aside  
    C. Speed up  
-   D. Ignore  
+   D. Block path  
 
-7. 15% of 1200:  
-   A. 150  
-   B. 180  
-   C. 240  
-   D. 300  
+7. 12% of 2500:  
+   A. 175  
+   B. 300  
+   C. 425  
+   D. 550  
 
-8. Idiom "Burn the midnight oil":  
-   A. Waste time  
-   B. Work late night  
-   C. Start fire  
-   D. Relax  
+8. Idiom "Let the cat out of the bag":  
+   A. Hide secret  
+   B. Reveal secret  
+   C. Play with cat  
+   D. Lose something  
 
-9. Third-party insurance covers:  
-   A. Own vehicle  
-   B. Others' injury/damage  
-   C. Theft  
-   D. Fuel  
+9. Overloading a vehicle is:  
+   A. Permitted short routes  
+   B. Offence under MV Act  
+   C. Police permission  
+   D. Goods vehicles only  
 
-10. Series: 3, 9, 27, 81, ?  
-    A. 162  
-    B. 243  
-    C. 324  
-    D. 729  
+10. Series: 2, 6, 12, 20, 30, ?  
+    A. 36  
+    B. 40  
+    C. 42  
+    D. 44  
 
-11. Mandatory for hazardous goods:  
-    A. No requirement  
-    B. Hazard placards + trained driver  
-    C. Loud horn  
-    D. Bright paint  
+11. Mandatory for two-wheeler riders:  
+    A. Seat belt  
+    B. Helmet  
+    C. Airbag  
+    D. Reflective jacket  
 
-12. Antonym of "Reluctant":  
-    A. Eager  
-    B. Willing  
-    C. Unwilling  
-    D. Confident  
+12. Antonym of "Ancient":  
+    A. Old  
+    B. Modern  
+    C. Historic  
+    D. Aged  
 
-13. Purpose of ABS:  
-    A. Fuel efficiency  
-    B. Prevent wheel lock-up  
-    C. AC  
-    D. Noise  
+13. Primary purpose of road markings:  
+    A. Decoration  
+    B. Guide/regulate traffic  
+    C. Temperature  
+    D. Fuel stations  
 
-14. 'Kanchenjunga' located in:  
-    A. Sikkim  
-    B. Assam  
-    C. Tripura  
-    D. Himachal Pradesh  
+14. Who wrote 'Wings of Fire'?  
+    A. A. P. J. Abdul Kalam  
+    B. R. K. Narayan  
+    C. Vikram Seth  
+    D. Chetan Bhagat  
 
-15. Daily vehicle check:  
-    A. Fuel  
-    B. Brakes, tyres, mirrors, lights  
+15. Tyre tread depth important because:  
+    A. Fuel colour  
+    B. Road grip  
     C. Horn  
-    D. Seat  
+    D. Radio  
 
-16. Passive voice correct form:  
+16. Correct passive: "She writes a letter."  
     A. Was written  
     B. Is written  
     C. Is being written  
     D. Has been written  
 
-17. No Overtaking on:  
+17. No Overtaking sign on:  
     A. Wide roads  
     B. Blind curves  
     C. Highways  
     D. Parking  
 
-18. LCM of 8 and 12:  
-    A. 12  
-    B. 24  
-    C. 32  
-    D. 96  
+18. LCM of 15 and 20:  
+    A. 40  
+    B. 60  
+    C. 75  
+    D. 300  
 
-19. Hospital zone sign:  
-    A. H symbol  
-    B. No horn  
+19. School zone sign:  
+    A. Children crossing  
+    B. No parking  
     C. Speed limit  
-    D. Petrol pump  
+    D. One way  
 
-20. Ratio 4:9 sum 65, smaller:  
-    A. 20  
-    B. 25  
+20. Ratio 5:7 sum 96, smaller:  
+    A. 35  
+    B. 40  
     C. 45  
-    D. 52  
+    D. 56  
 
 21. Missile Man:  
     A. Sarabhai  
@@ -140,17 +140,17 @@
     C. Night  
     D. Emergency  
 
-24. Correct spelling:  
-    A. Recieve  
-    B. Receive  
-    C. Receeve  
-    D. Receve  
+24. Spelling:  
+    A. Definately  
+    B. Definitely  
+    C. Definitly  
+    D. Defenitely  
 
-25. Square root 225:  
-    A. 14  
-    B. 15  
-    C. 16  
-    D. 17  
+25. Square root 256:  
+    A. 15  
+    B. 16  
+    C. 17  
+    D. 18  
 
 26. No Parking red cross:  
     A. Short  
@@ -158,17 +158,17 @@
     C. Night  
     D. Loading  
 
-27. 65 days Monday:  
+27. 65 days from Monday:  
     A. Monday  
     B. Tuesday  
     C. Wednesday  
     D. Friday  
 
-28. Average 10 20 30 40:  
-    A. 25  
-    B. 27  
-    C. 29  
-    D. 30  
+28. Average 12 15 18 21 24:  
+    A. 18  
+    B. 20  
+    C. 22  
+    D. 24  
 
 29. Dip headlights:  
     A. Approaching night  
@@ -190,13 +190,13 @@
 
 32. Broken white line:  
     A. No  
-    B. Caution change  
+    B. Caution  
     C. Pedestrian  
     D. Parking  
 
 33. Drunk driving:  
     A. Warning  
-    B. Fine/imprisonment  
+    B. Fine  
     C. No  
     D. Renewal  
 
@@ -242,11 +242,11 @@
     C. Info  
     D. Prohibition  
 
-41. Interest Rs. 1000 5% 2 years:  
-    A. 100  
-    B. 150  
-    C. 200  
-    D. 250  
+41. Interest Rs. 400 25%:  
+    A. 480  
+    B. 500  
+    C. 520  
+    D. 550  
 
 42. Cat out bag:  
     A. Hide  
@@ -615,7 +615,7 @@
 9. B  
 10. B  
 11. B  
-12. A  
+12. B  
 13. B  
 14. A  
 15. B  
