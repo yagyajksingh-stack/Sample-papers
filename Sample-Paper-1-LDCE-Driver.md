@@ -1,706 +1,706 @@
-# Sample Paper 1 - LDCE Driver/Motor Vehicle Operator Cadre
+# Sample Paper 3 - LDCE Driver / Motor Vehicle Operator Cadre
 
 ## Questions
 
-1. Who is widely regarded as the chief architect of the Indian Constitution?
-   A. Jawaharlal Nehru
-   B. Sardar Vallabhbhai Patel
-   C. Dr. B. R. Ambedkar
-   D. Dr. Rajendra Prasad
-
-2. Which of the following is the correct meaning of the idiom "Let the cat out of the bag"?
-   A. To keep a secret
-   B. To reveal a secret unintentionally
-   C. To play with animals
-   D. To organize a meeting
-
-3. A vehicle travels 180 km in 3 hours. What is its average speed?
-   A. 50 km/h
-   B. 60 km/h
-   C. 70 km/h
-   D. 80 km/h
-
-4. What does a triangular road sign with a red border generally indicate?
-   A. Mandatory instruction
-   B. Warning or caution
-   C. Informational sign
-   D. No entry zone
-
-5. Choose the word most opposite in meaning to "Prudent".
-   A. Careful
-   B. Reckless
-   C. Wise
-   D. Thoughtful
-
-6. If 'BOOK' is coded as 'CPPL', how is 'PEN' coded in the same pattern?
-   A. QFO
-   B. OFM
-   C. QEM
-   D. PFO
-
-7. Under the Motor Vehicles Act, what is the primary purpose of third-party insurance?
-   A. To cover damage to own vehicle
-   B. To cover liability for injury or damage to third parties
-   C. To insure against theft
-   D. To cover fuel expenses
-
-8. What is 25% of 400?
-   A. 75
-   B. 100
-   C. 125
-   D. 150
-
-9. Which gas is primarily responsible for the greenhouse effect?
-   A. Oxygen
-   B. Nitrogen
-   C. Carbon dioxide
-   D. Hydrogen
-
-10. Complete the series: 2, 6, 12, 20, 30, ?
-    A. 36
-    B. 40
-    C. 42
-    D. 44
-
-11. What should a driver do when an ambulance with a siren approaches from behind?
-    A. Ignore it and maintain speed
-    B. Give way by moving to the side
-    C. Speed up to clear the path
-    D. Stop in the middle of the road
-
-12. Choose the synonym of "Tedious".
-    A. Exciting
-    B. Boring
-    C. Quick
-    D. Simple
-
-13. The headquarters of ASEAN is located in which city?
-    A. Bangkok
-    B. Jakarta
-    C. Manila
-    D. Singapore
-
-14. What is the LCM of 12 and 18?
-    A. 18
-    B. 36
-    C. 48
-    D. 216
-
-15. A 'Give Way' sign requires the driver to:
-    A. Stop completely
-    B. Yield to traffic on the main road
-    C. Speed up
-    D. Honk continuously
-
-16. Identify the odd one out: Triangle, Square, Circle, Wood.
-    A. Triangle
-    B. Square
-    C. Circle
-    D. Wood
-
-17. What is the minimum age for obtaining a driving licence for a non-transport vehicle in India?
-    A. 16 years
-    B. 18 years
-    C. 20 years
-    D. 21 years
-
-18. He said, "I am happy." Convert to indirect speech.
-    A. He said that he is happy.
-    B. He said that he was happy.
-    C. He says that he was happy.
-    D. He said that I am happy.
-
-19. What should be checked before starting a long journey?
-    A. Only fuel level
-    B. Brakes, tyres, mirrors, lights and fluids
-    C. Only the horn
-    D. Seat position only
-
-20. Find the square root of 225.
-    A. 12
-    B. 13
-    C. 15
-    D. 17
-
-21. Which sign indicates a pedestrian crossing?
-    A. Zebra crossing markings
-    B. Speed limit sign
-    C. No parking sign
-    D. One way sign
-
-22. Two numbers are in the ratio 2:5 and their sum is 70. What is the smaller number?
-    A. 15
-    B. 20
-    C. 25
-    D. 50
-
-23. The Battle of Plassey was fought in which year?
-    A. 1757
-    B. 1764
-    C. 1857
-    D. 1947
-
-24. Choose the correctly spelt word.
-    A. Accomodate
-    B. Accommodate
-    C. Acommodate
-    D. Accommadate
-
-25. What is the validity period of a learner's licence in India?
-    A. 3 months
-    B. 6 months
-    C. 1 year
-    D. 2 years
-
-26. If today is Monday, what day will it be after 65 days?
-    A. Monday
-    B. Tuesday
-    C. Wednesday
-    D. Friday
-
-27. Excessive use of horn near hospitals is:
-    A. Encouraged
-    B. Prohibited
-    C. Allowed at night
-    D. Mandatory for emergencies
-
-28. What is the average of 10, 20, 30 and 40?
-    A. 25
-    B. 27
-    C. 29
-    D. 30
-
-29. A red traffic light means:
-    A. Slow down
-    B. Stop
-    C. Proceed with caution
-    D. Go
-
-30. Who is known as the 'Missile Man of India'?
-    A. Vikram Sarabhai
-    B. A. P. J. Abdul Kalam
-    C. Homi Bhabha
-    D. C. V. Raman
-
-31. What does a double solid white line on the road indicate?
-    A. Overtaking permitted
-    B. Overtaking prohibited
-    C. Parking allowed
-    D. U-turn allowed
-
-32. Fill in the blank: She is good ___ painting.
-    A. in
-    B. at
-    C. on
-    D. with
-
-33. The pollution under control (PUC) certificate is renewed every:
-    A. 3 months
-    B. 6 months
-    C. 1 year
-    D. 2 years
-
-34. Choose the antonym of "Generous".
-    A. Kind
-    B. Stingy
-    C. Helpful
-    D. Charitable
-
-35. What is the purpose of anti-lock braking system (ABS)?
-    A. Increase fuel efficiency
-    B. Prevent wheel lock-up during hard braking
-    C. Improve air conditioning
-    D. Reduce engine noise
-
-36. A shopkeeper buys an item for Rs. 600 and sells it at 10% profit. What is the selling price?
-    A. 640
-    B. 660
-    C. 680
-    D. 700
-
-37. Which document must a driver always carry?
-    A. Aadhaar Card
-    B. Valid Driving Licence
-    C. Voter ID
-    D. Passport
-
-38. Complete the analogy: Tree : Forest :: Star : ?
-    A. Sky
-    B. Galaxy
-    C. Planet
-    D. Moon
-
-39. What is the maximum permissible blood alcohol limit for driving?
-    A. 0.03%
-    B. 0.05%
-    C. 0.08%
-    D. 0.10%
-
-40. Identify the odd pair: 4-16, 5-25, 6-36, 7-49.
-    A. 4-16
-    B. 5-25
-    C. 6-36
-    D. 7-49
-
-41. Seat belts are mandatory for:
-    A. Driver only
-    B. Front seat occupants only
-    C. All occupants
-    D. Rear seat only
-
-42. What is 40% of 500?
-    A. 150
-    B. 200
-    C. 250
-    D. 300
-
-43. A flashing yellow light indicates:
-    A. Stop
-    B. Proceed with caution
-    C. No entry
-    D. Green signal ahead
-
-44. The Sun rises in the:
-    A. East
-    B. West
-    C. North
-    D. South
-
-45. What should a driver do if brakes fail?
-    A. Panic and jump out
-    B. Downshift gears and use handbrake gradually
-    C. Accelerate faster
-    D. Turn off engine immediately
-
-46. Choose the correct passive voice: "She writes a letter."
-    A. A letter is written by her.
-    B. A letter was written by her.
-    C. A letter is being written by her.
-    D. A letter has written by her.
-
-47. Which sign is mandatory for hazardous goods transport vehicles?
-    A. Hazard placards
-    B. Bright paint only
-    C. Loud horn
-    D. No special requirement
-
-48. What is the square root of 256?
-    A. 14
-    B. 15
-    C. 16
-    D. 17
-
-49. A 'No Parking' sign with a red cross means:
-    A. Short time parking allowed
-    B. Parking completely prohibited
-    C. Night parking allowed
-    D. Loading allowed
-
-50. If RAIN is coded as 8456, how is PAIN coded?
-    A. 7456
-    B. 7846
-    C. 7546
-    D. 8456
-
-51. Which vitamin deficiency causes night blindness?
-    A. Vitamin A
-    B. Vitamin B
-    C. Vitamin C
-    D. Vitamin D
-
-52. What is the primary purpose of a zebra crossing?
-    A. Parking
-    B. Pedestrian crossing
-    C. Bus stop
-    D. Speed breaker
-
-53. Two numbers in ratio 5:7 sum to 96. Smaller number is:
-    A. 35
-    B. 40
-    C. 45
-    D. 56
-
-54. Headlights should be dipped when:
-    A. Approaching another vehicle at night
-    B. On empty highway
-    C. Parking
-    D. Daytime
-
-55. Choose the meaning of "Burn the midnight oil".
-    A. Waste time
-    B. Work late at night
-    C. Start a fire
-    D. Relax
-
-56. The triangular shape of a sign indicates:
-    A. Mandatory
-    B. Warning
-    C. Information
-    D. Prohibition
-
-57. What is the average speed of a car traveling 120 km in 2 hours?
-    A. 50 km/h
-    B. 60 km/h
-    C. 70 km/h
-    D. 80 km/h
-
-58. A learner driver must display:
-    A. P sign
-    B. L sign
-    C. S sign
-    D. T sign
-
-59. Find the odd one: Cube, Sphere, Cylinder, Square.
-    A. Cube
-    B. Sphere
-    C. Cylinder
-    D. Square
-
-60. Driving without a valid licence is punishable under which section of MV Act?
-    A. Section 3
-    B. Section 181
-    C. Section 177
-    D. Section 130
-
-61. What is the LCM of 14 and 21?
-    A. 42
-    B. 56
-    C. 98
-    D. 294
-
-62. "Once in a blue moon" means:
-    A. Frequently
-    B. Rarely
-    C. Always
-    D. Never
-
-63. What does a broken white line indicate?
-    A. No lane change
-    B. Lane change permitted with caution
-    C. Pedestrian area
-    D. Parking zone
-
-64. Simple interest on Rs. 5000 at 6% for 4 years is:
-    A. 1,000
-    B. 1,200
-    C. 1,400
-    D. 1,600
-
-65. Which authority issues driving licences?
-    A. Police
-    B. Regional Transport Office (RTO)
-    C. Municipal Corporation
-    D. State Bank
-
-66. Choose the antonym of "Optimistic".
-    A. Hopeful
-    B. Pessimistic
-    C. Cheerful
-    D. Joyful
-
-67. Yellow fog lights are used in:
-    A. Sunny days
-    B. Foggy conditions
-    C. Night only
-    D. Parking
-
-68. The Indian Constitution was adopted on:
-    A. 26 January 1950
-    B. 26 November 1949
-    C. 15 August 1947
-    D. 2 October 1947
-
-69. What is the function of rear-view mirror?
-    A. Check tyre pressure
-    B. Observe traffic behind
-    C. Check fuel
-    D. Adjust headlights
-
-70. A 'U-Turn Prohibited' sign means:
-    A. U-turn allowed at night
-    B. U-turn not permitted
-    C. Only for two-wheelers
-    D. Off-peak hours only
-
-71. What is 75% of 640?
-    A. 448
-    B. 480
-    C. 512
-    D. 560
-
-72. Overloading a vehicle is:
-    A. Permitted on short routes
-    B. An offence under MV Act
-    C. Allowed with permission
-    D. Only for goods vehicles
-
-73. If MOBILE is NPCJMF, TABLE is:
-    A. UBCMF
-    B. UBDMF
-    C. UCDMF
-    D. VBCMF
-
-74. Helmet is mandatory for:
-    A. Car drivers
-    B. Two-wheeler riders
-    C. Bus passengers
-    D. All vehicle users
-
-75. Which is the deepest ocean?
-    A. Atlantic
-    B. Indian
-    C. Pacific
-    D. Arctic
-
-76. A red circle with diagonal bar indicates:
-    A. Information
-    B. Prohibition
-    C. Warning
-    D. Mandatory
-
-77. Average of 12, 15, 18, 21, 24 is:
-    A. 18
-    B. 20
-    C. 22
-    D. 24
-
-78. Talking on mobile while driving is:
-    A. Allowed briefly
-    B. Prohibited
-    C. Allowed on highways
-    D. One hand only
-
-79. The 'Stop' sign requires:
-    A. Slow down
-    B. Complete halt
-    C. Honk and proceed
-    D. Change lane
-
-80. Who wrote 'Discovery of India'?
-    A. Mahatma Gandhi
-    B. Jawaharlal Nehru
-    C. Subhas Chandra Bose
-    D. Rajendra Prasad
-
-81. Hazard warning lights indicate:
-    A. Normal driving
-    B. Distress or stationary unexpectedly
-    C. Turning
-    D. Reverse
-
-82. Minimum age for transport vehicle licence:
-    A. 18 years
-    B. 20 years
-    C. 21 years
-    D. 25 years
-
-83. What is the square root of 169?
-    A. 11
-    B. 12
-    C. 13
-    D. 14
-
-84. 'No Entry' sign means:
-    A. Enter slowly
-    B. Entry prohibited
-    C. Two-wheelers only
-    D. Night entry allowed
-
-85. Carbon monoxide is a major pollutant from:
-    A. Vehicles
-    B. Plants
-    C. Water
-    D. Soil
-
-86. Fill in: I have been living here ___ 2015.
-    A. for
-    B. since
-    C. from
-    D. by
-
-87. What is the purpose of speed breaker?
-    A. Decoration
-    B. Reduce speed in sensitive areas
-    C. Indicate parking
-    D. Mark lanes
-
-88. Pointing to a man, Rita said he is son of her grandfather's only son. Relation?
-    A. Father
-    B. Brother
-    C. Uncle
-    D. Cousin
-
-89. Tyre tread depth is checked because worn tyres:
-    A. Affect fuel colour
-    B. Reduce grip
-    C. Change horn sound
-    D. Impact radio
-
-90. The Election Commission of India is a:
-    A. Statutory body
-    B. Constitutional body
-    C. Judicial body
-    D. Advisory body
-
-91. What comes next: 3, 9, 27, 81, ?
-    A. 162
-    B. 243
-    C. 324
-    D. 729
-
-92. Drunk driving is punishable with:
-    A. Warning
-    B. Fine and/or imprisonment
-    C. No penalty
-    D. Licence renewal only
-
-93. Choose the correct article: ___ honest man is respected.
-    A. A
-    B. An
-    C. The
-    D. No article
-
-94. Rear indicator/brake light colour is:
-    A. White
-    B. Red
-    C. Blue
-    D. Green
-
-95. Simple interest on Rs. 800 at 4% for 5 years:
-    A. 130
-    B. 160
-    C. 210
-    D. 260
-
-96. Primary purpose of road markings:
-    A. Decoration
-    B. Guide and regulate traffic
-    C. Increase temperature
-    D. Indicate stations
-
-97. 'Kanchenjunga' is in:
-    A. Sikkim
-    B. Assam
-    C. Tripura
-    D. Himachal Pradesh
-
-98. What should be done after an accident causing injury?
-    A. Leave scene
-    B. Report to police
-    C. Ignore if minor
-    D. Drive victim home
-
-99. Antonym of "Reluctant":
-    A. Eager
-    B. Unwilling
-    C. Confident
-    D. Hesitant
-
-100. A vehicle's hazard light indicates:
-     A. Normal operation
-     B. Distress or stationary unexpectedly
-     C. Left turn
-     D. Reverse
+1. The Indian Constitution was adopted on which date?  
+   A. 26 January 1950  
+   B. 26 November 1949  
+   C. 15 August 1947  
+   D. 2 October 1950  
+
+2. What does a 'Zebra Crossing' marking indicate?  
+   A. Parking area  
+   B. Pedestrian crossing  
+   C. Bus stop  
+   D. Speed breaker  
+
+3. A car travels 150 km in 5 hours. What is its average speed?  
+   A. 25 km/h  
+   B. 30 km/h  
+   C. 35 km/h  
+   D. 40 km/h  
+
+4. Choose the antonym of "Diligent".  
+   A. Hardworking  
+   B. Lazy  
+   C. Sincere  
+   D. Careful  
+
+5. If '253' means 'good sweet mango', '546' means 'mango good fruit', which digit means 'good'?  
+   A. 2  
+   B. 3  
+   C. 5  
+   D. 6  
+
+6. What is the recommended action when approaching a school zone?  
+   A. Maintain normal speed  
+   B. Reduce speed and watch for children  
+   C. Honk continuously  
+   D. Change lane abruptly  
+
+7. What is 75% of 640?  
+   A. 448  
+   B. 480  
+   C. 512  
+   D. 544  
+
+8. The idiom "Burn the midnight oil" means:  
+   A. To waste time  
+   B. To work late into the night  
+   C. To start a fire  
+   D. To relax  
+
+9. Driving without a valid licence is punishable under which section?  
+   A. Section 3  
+   B. Section 181  
+   C. Section 177  
+   D. Section 130  
+
+10. Complete the series: 3, 9, 27, 81, ?  
+    A. 162  
+    B. 243  
+    C. 324  
+    D. 729  
+
+11. Which equipment is mandatory for hazardous goods transport?  
+    A. Bright paint  
+    B. Hazard placards and trained driver  
+    C. Loud horn only  
+    D. No special requirement  
+
+12. Choose the synonym of "Genuine".  
+    A. Fake  
+    B. Authentic  
+    C. False  
+    D. Artificial  
+
+13. What is the purpose of rear-view mirror?  
+    A. Check tyre pressure  
+    B. Observe traffic behind the vehicle  
+    C. Check fuel level  
+    D. Adjust headlights  
+
+14. The 'Land of the Rising Sun' refers to which country?  
+    A. China  
+    B. Japan  
+    C. Korea  
+    D. Thailand  
+
+15. What should a driver do when brakes fail while driving?  
+    A. Panic and jump out  
+    B. Downshift gears and use handbrake gradually  
+    C. Accelerate to reach destination faster  
+    D. Turn off the engine immediately at high speed  
+
+16. What is the LCM of 14 and 21?  
+    A. 21  
+    B. 42  
+    C. 56  
+    D. 294  
+
+17. A 'Stop' sign requires the driver to:  
+    A. Slow down only  
+    B. Come to a complete halt  
+    C. Honk and proceed  
+    D. Change lane  
+
+18. Fill in the blank: If it rains, we ___ stay at home.  
+    A. will  
+    B. would  
+    C. shall have  
+    D. were  
+
+19. Which sign indicates a hospital zone?  
+    A. Hospital sign with H symbol  
+    B. No horn sign  
+    C. Speed limit sign  
+    D. Petrol pump sign  
+
+20. Two numbers in ratio 4:9 sum to 65. Smaller number is:  
+    A. 15  
+    B. 20  
+    C. 25  
+    D. 45  
+
+21. Who is regarded as the 'Missile Man of India'?  
+    A. Vikram Sarabhai  
+    B. A. P. J. Abdul Kalam  
+    C. Homi Bhabha  
+    D. C. V. Raman  
+
+22. What is the validity period of a learner's licence?  
+    A. 6 months  
+    B. 1 year  
+    C. 2 years  
+    D. 3 years  
+
+23. Excessive horn use in silence zones is:  
+    A. Encouraged  
+    B. Prohibited  
+    C. Allowed at night  
+    D. Allowed for emergency vehicles only  
+
+24. Choose the correct spelling.  
+    A. Recieve  
+    B. Receive  
+    C. Receeve  
+    D. Receve  
+
+25. What is the square root of 256?  
+    A. 15  
+    B. 16  
+    C. 17  
+    D. 18  
+
+26. A 'No Parking' sign with red cross means:  
+    A. Parking allowed for short time  
+    B. Parking is completely prohibited  
+    C. Parking allowed at night  
+    D. Loading/unloading allowed  
+
+27. If today is Monday, what day after 65 days?  
+    A. Monday  
+    B. Tuesday  
+    C. Wednesday  
+    D. Friday  
+
+28. What is the average of 12, 15, 18, 21, 24?  
+    A. 18  
+    B. 20  
+    C. 22  
+    D. 24  
+
+29. Headlights should be dipped when:  
+    A. Approaching another vehicle at night  
+    B. Driving on empty highway  
+    C. Parking the vehicle  
+    D. Driving in daylight  
+
+30. The apex bank for agriculture is:  
+    A. RBI  
+    B. NABARD  
+    C. SBI  
+    D. SIDBI  
+
+31. Choose the antonym of "Optimistic".  
+    A. Hopeful  
+    B. Cheerful  
+    C. Pessimistic  
+    D. Joyful  
+
+32. What does a broken white line indicate?  
+    A. No lane change  
+    B. Lane change permitted with caution  
+    C. Pedestrian crossing  
+    D. Parking zone  
+
+33. Drunk driving first offence leads to:  
+    A. Warning only  
+    B. Fine and/or imprisonment  
+    C. No penalty  
+    D. Licence renewal  
+
+34. LCM of 12 and 18 is:  
+    A. 18  
+    B. 36  
+    C. 48  
+    D. 216  
+
+35. A red traffic light means:  
+    A. Go  
+    B. Slow down  
+    C. Stop  
+    D. Caution  
+
+36. What is the purpose of anti-lock braking system?  
+    A. Increase fuel efficiency  
+    B. Prevent wheel lock-up during braking  
+    C. Improve air conditioning  
+    D. Reduce engine noise  
+
+37. Who wrote 'Discovery of India'?  
+    A. Mahatma Gandhi  
+    B. Jawaharlal Nehru  
+    C. Rajendra Prasad  
+    D. Subhas Chandra Bose  
+
+38. What is 25% of 800?  
+    A. 160  
+    B. 200  
+    C. 240  
+    D. 280  
+
+39. A learner driver must display:  
+    A. P sign  
+    B. L sign  
+    C. S sign  
+    D. T sign  
+
+40. The triangular shape of a road sign indicates:  
+    A. Mandatory instruction  
+    B. Warning/caution  
+    C. Information  
+    D. Prohibition  
+
+41. Simple interest on Rs. 5000 at 6% for 4 years:  
+    A. 1,000  
+    B. 1,200  
+    C. 1,400  
+    D. 1,600  
+
+42. Choose the meaning of "Let the cat out of the bag".  
+    A. Hide a secret  
+    B. Reveal a secret  
+    C. Play with a cat  
+    D. Lose something  
+
+43. What should be checked before starting vehicle daily?  
+    A. Fuel only  
+    B. Brakes, tyres, mirrors, lights  
+    C. Horn only  
+    D. Seat position only  
+
+44. Which is the smallest state of India by area?  
+    A. Sikkim  
+    B. Goa  
+    C. Tripura  
+    D. Nagaland  
+
+45. A double solid white/yellow line means:  
+    A. Overtaking allowed  
+    B. Overtaking prohibited  
+    C. Parking allowed  
+    D. U-turn allowed  
+
+46. Fill in the blank: She is good ___ painting.  
+    A. in  
+    B. at  
+    C. on  
+    D. with  
+
+47. The primary purpose of third-party insurance is to cover:  
+    A. Damage to own vehicle  
+    B. Damage/injury to another person or property  
+    C. Theft of vehicle  
+    D. Fuel costs  
+
+48. What is the square root of 169?  
+    A. 12  
+    B. 13  
+    C. 14  
+    D. 15  
+
+49. Yellow fog lights are used in:  
+    A. Sunny days  
+    B. Foggy or misty conditions  
+    C. While parking  
+    D. Clear weather at night  
+
+50. If a man walks 5 km North, 3 km East, 5 km South, how far from start?  
+    A. 3 km  
+    B. 5 km  
+    C. 8 km  
+    D. 13 km  
+
+51. What is the maximum speed limit on expressways for cars?  
+    A. 60 km/h  
+    B. 80 km/h  
+    C. 100-120 km/h  
+    D. 150 km/h  
+
+52. Choose the correct indirect speech: He said, "I am happy."  
+    A. He said that he is happy.  
+    B. He said that he was happy.  
+    C. He says that he was happy.  
+    D. He said that I was happy.  
+
+53. Overloading a vehicle is:  
+    A. Permitted on short routes  
+    B. An offence under MV Act  
+    C. Allowed with police permission  
+    D. Allowed for goods vehicles only  
+
+54. What is the function of the rear-view mirror?  
+    A. Check tyre pressure  
+    B. Observe traffic behind  
+    C. Check fuel level  
+    D. Adjust headlights  
+
+55. The Election Commission of India is a:  
+    A. Constitutional body  
+    B. Statutory body  
+    C. Judicial body  
+    D. Advisory body  
+
+56. What comes next: 2, 5, 10, 17, 26, ?  
+    A. 35  
+    B. 36  
+    C. 37  
+    D. 38  
+
+57. Seat belts are mandatory under Indian law for:  
+    A. Driver only  
+    B. Front seat occupants only  
+    C. All occupants  
+    D. Rear seat only  
+
+58. What is the average of 10, 20, 30, 40?  
+    A. 25  
+    B. 27  
+    C. 29  
+    D. 30  
+
+59. A 'U-Turn Prohibited' sign means:  
+    A. U-turn allowed at night  
+    B. U-turn is not permitted  
+    C. U-turn allowed for two-wheelers  
+    D. U-turn allowed during off-peak hours  
+
+60. Choose the synonym of "Vivid".  
+    A. Dull  
+    B. Bright  
+    C. Pale  
+    D. Faint  
+
+61. What is the purpose of a speed breaker?  
+    A. To decorate the road  
+    B. To reduce vehicle speed in sensitive zones  
+    C. To indicate parking  
+    D. To mark lane boundaries  
+
+62. LCM of 8 and 12 is:  
+    A. 12  
+    B. 24  
+    C. 32  
+    D. 96  
+
+63. Talking on hand-held mobile while driving is:  
+    A. Allowed if brief  
+    B. Prohibited  
+    C. Allowed only on highways  
+    D. Allowed using one hand  
+
+64. Who is known as the architect of the Indian Constitution?  
+    A. Dr. B. R. Ambedkar  
+    B. Mahatma Gandhi  
+    C. Jawaharlal Nehru  
+    D. Sardar Patel  
+
+65. What does a flashing yellow traffic light indicate?  
+    A. Stop  
+    B. Proceed with caution  
+    C. Stop and wait for green  
+    D. No entry  
+
+66. What is 40% of 500?  
+    A. 175  
+    B. 200  
+    C. 225  
+    D. 250  
+
+67. The minimum age for non-transport vehicle licence (without gear):  
+    A. 16 years  
+    B. 18 years  
+    C. 20 years  
+    D. 21 years  
+
+68. Choose the antonym of "Generous".  
+    A. Kind  
+    B. Stingy  
+    C. Helpful  
+    D. Charitable  
+
+69. What is the standard colour of mandatory traffic signs?  
+    A. Yellow with black border  
+    B. Blue circle  
+    C. Red circle with white background  
+    D. Green rectangle  
+
+70. Simple interest on Rs. 400 at 25% profit selling price calculation leads to:  
+    A. 480  
+    B. 500  
+    C. 520  
+    D. 550  
+
+71. Which gas is mainly responsible for greenhouse effect?  
+    A. Oxygen  
+    B. Carbon dioxide  
+    C. Nitrogen  
+    D. Hydrogen  
+
+72. What should a driver do at 'Give Way' sign?  
+    A. Stop completely  
+    B. Yield to traffic on main road  
+    C. Speed up  
+    D. Ignore if no traffic  
+
+73. The 'No Entry' sign indicates:  
+    A. Vehicles may enter slowly  
+    B. Entry is prohibited for vehicles  
+    C. Only two-wheelers may enter  
+    D. Entry allowed at night  
+
+74. What is the square root of 225?  
+    A. 14  
+    B. 15  
+    C. 16  
+    D. 17  
+
+75. A vehicle's tyre tread depth should be checked because:  
+    A. Worn tyres reduce road grip  
+    B. It affects fuel colour  
+    C. It changes the horn sound  
+    D. It impacts the radio signal  
+
+76. Choose the correct article: ___ honest man is respected by all.  
+    A. A  
+    B. An  
+    C. The  
+    D. No article  
+
+77. What is the purpose of a zebra crossing?  
+    A. Parking area  
+    B. Pedestrian crossing  
+    C. Bus stop  
+    D. Speed breaker  
+
+78. Who is the author of 'Wings of Fire'?  
+    A. A. P. J. Abdul Kalam  
+    B. R. K. Narayan  
+    C. Vikram Seth  
+    D. Chetan Bhagat  
+
+79. Excessive use of horn in silence zones is:  
+    A. Encouraged  
+    B. Prohibited  
+    C. Allowed at night only  
+    D. Allowed for emergency vehicles only  
+
+80. What is the average of 8, 16, 24, 32?  
+    A. 18  
+    B. 20  
+    C. 22  
+    D. 24  
+
+81. Which authority issues driving licence?  
+    A. Regional Transport Office (RTO)  
+    B. Police Department  
+    C. Municipal Corporation  
+    D. State Bank  
+
+82. Choose the meaning of "Under the weather".  
+    A. Feeling well  
+    B. Feeling unwell  
+    C. Enjoying the rain  
+    D. Travelling abroad  
+
+83. What does a circular road sign with red border indicate?  
+    A. Information  
+    B. Prohibition or mandatory  
+    C. Warning  
+    D. Direction  
+
+84. If a clock shows 6:30 reflected in vertical mirror, it appears as:  
+    A. 5:30  
+    B. 6:30  
+    C. 12:30  
+    D. 11:30  
+
+85. Driving on wrong side is offence under which section?  
+    A. Section 184  
+    B. Section 177  
+    C. Section 119  
+    D. Section 130  
+
+86. What is the LCM of 15 and 20?  
+    A. 40  
+    B. 60  
+    C. 75  
+    D. 300  
+
+87. Helmet is mandatory safety equipment for:  
+    A. All four-wheeler drivers  
+    B. Two-wheeler riders  
+    C. Bus passengers  
+    D. All road users  
+
+88. Choose the synonym of "Reluctant".  
+    A. Eager  
+    B. Willing  
+    C. Unwilling  
+    D. Confident  
+
+89. What is the maximum permissible blood alcohol content?  
+    A. 0.03%  
+    B. 0.05%  
+    C. 0.08%  
+    D. 0.10%  
+
+90. The primary purpose of road markings is to:  
+    A. Decorate the road  
+    B. Guide and regulate traffic flow safely  
+    C. Increase road temperature  
+    D. Indicate fuel stations  
+
+91. What should a driver do when an ambulance with siren approaches?  
+    A. Ignore it  
+    B. Give way and move aside  
+    C. Speed up  
+    D. Block the path  
+
+92. Square root of 169 is:  
+    A. 12  
+    B. 13  
+    C. 14  
+    D. 15  
+
+93. The 'No Overtaking' sign is found on:  
+    A. Straight wide roads  
+    B. Blind curves and narrow roads  
+    C. Highways only  
+    D. Parking lots  
+
+94. What is 12% of 2500?  
+    A. 175  
+    B. 300  
+    C. 425  
+    D. 550  
+
+95. Who discovered the law of gravity?  
+    A. Albert Einstein  
+    B. Isaac Newton  
+    C. Galileo  
+    D. Charles Darwin  
+
+96. Fill in the blank: They have ___ finished their homework.  
+    A. already  
+    B. yet  
+    C. still  
+    D. never  
+
+97. What is the function of hazard warning lights?  
+    A. Normal driving  
+    B. Vehicle in distress or stationary unexpectedly  
+    C. Turning left  
+    D. Reverse gear engaged  
+
+98. Choose the correct passive voice form.  
+    A. A letter was written by her.  
+    B. A letter is written by her.  
+    C. A letter is being written by her.  
+    D. A letter has been written by her.  
+
+99. The minimum age for non-transport vehicle (without gear) is:  
+    A. 16 years  
+    B. 18 years  
+    C. 20 years  
+    D. 21 years  
+
+100. What is the purpose of PUC certificate?  
+     A. Pollution control compliance  
+     B. Insurance validity  
+     C. Licence renewal  
+     D. Vehicle registration  
 
 ## Answer Key
 
-1. C
-2. B
-3. B
-4. B
-5. B
-6. A
-7. B
-8. B
-9. C
-10. C
-11. B
-12. B
-13. B
-14. B
-15. B
-16. D
-17. B
-18. B
-19. B
-20. C
-21. A
-22. B
-23. A
-24. B
-25. C
-26. D
-27. B
-28. A
-29. B
-30. B
-31. B
-32. B
-33. C
-34. B
-35. B
-36. B
-37. B
-38. B
-39. B
-40. C
-41. C
-42. B
-43. B
-44. A
-45. B
-46. A
-47. A
-48. C
-49. B
-50. A
-51. A
-52. B
-53. B
-54. A
-55. B
-56. B
-57. B
-58. B
-59. D
-60. B
-61. A
-62. B
-63. B
-64. B
-65. B
-66. B
-67. B
-68. B
-69. B
-70. B
-71. B
-72. B
-73. B
-74. B
-75. C
-76. B
-77. A
-78. B
-79. B
-80. B
-81. B
-82. C
-83. C
-84. B
-85. A
-86. B
-87. B
-88. B
-89. B
-90. B
-91. B
-92. B
-93. B
-94. B
-95. B
-96. B
-97. A
-98. B
-99. A
-100. B
+1. A  
+2. C  
+3. B  
+4. B  
+5. C  
+6. B  
+7. B  
+8. B  
+9. B  
+10. B  
+11. B  
+12. B  
+13. B  
+14. D  
+15. B  
+16. B  
+17. B  
+18. A  
+19. A  
+20. D  
+21. B  
+22. B  
+23. B  
+24. B  
+25. B  
+26. B  
+27. B  
+28. B  
+29. A  
+30. B  
+31. B  
+32. C  
+33. C  
+34. B  
+35. B  
+36. B  
+37. B  
+38. B  
+39. B  
+40. B  
+41. B  
+42. C  
+43. B  
+44. B  
+45. B  
+46. B  
+47. B  
+48. B  
+49. C  
+50. B  
+51. B  
+52. C  
+53. B  
+54. B  
+55. C  
+56. C  
+57. B  
+58. B  
+59. B  
+60. D  
+61. B  
+62. B  
+63. B  
+64. B  
+65. B  
+66. C  
+67. B  
+68. B  
+69. B  
+70. B  
+71. B  
+72. B  
+73. B  
+74. B  
+75. A  
+76 A  
+77. B  
+78. B  
+79. B  
+80. B  
+81. B  
+82. B  
+83. B  
+84. D  
+85. A  
+86. B  
+87. B  
+88. C  
+89. B  
+90. B  
+91. B  
+92. C  
+93. B  
+94. C  
+95. B  
+96. A  
+97. B  
+98. B  
+99. A  
+100. A
